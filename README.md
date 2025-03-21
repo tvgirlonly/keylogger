@@ -40,16 +40,14 @@ pip install pynput
 Usage ⚠️
 Run in a controlled environment (e.g., virtual machine):
 
-bash
-Copy
 python keylogger.py
+
 To stop:
 
 Press the ESC key
 
 Logs will be saved to:
 
-bash
-Copy
+
 keystrokes.log
-Legal Disclaimer
+
